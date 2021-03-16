@@ -1,0 +1,3 @@
+## Reclaiming lost identities or accounts
+To offer the highest levels of security and privacy to our users, we do not allow for merging of accounts, reactivation, or transfers under general cases. However, in the special circumstance an account does need to be recovered, the following the detailed explicit steps for identity assurance can found in the [NIST Digital Identity Guidelines
+](https://pages.nist.gov/800-63-3/sp800-63a.html#sec4).
