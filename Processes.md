@@ -26,6 +26,6 @@ Any process or control which is of interested to our clients and customers is do
 8. Retrospect - We review this process and seek to make ongoing improvements.
 
 ### Addressing incidents
-All incidents will be addresses as the primary responsibility of the company until the incident response process has been completed. We take the utmost care to ensure that any all data has been verified and secured before moving on.
+All incidents will be addressed as the primary responsibility of the company until the incident response process has been completed. We take the utmost care to ensure that any all data has been verified and secured before moving on.
 
-All security incidents will be reported in our [Slack Workspace](https://rhosys.ch/community), and updates will be made as 
+All security incidents will be reported in our [Slack Workspace](https://rhosys.ch/community), and updates will be made as they are available.
