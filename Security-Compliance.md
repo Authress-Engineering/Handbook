@@ -135,7 +135,7 @@ Does your quality management system (QMS) include coverage for software applicat
    - NO.
 
 1. Do you work with third parties that may have access to your IP and sensitive data?
-   - NO. Except where contractors are concerned and in those cases they have access only to the data which they need to operate and have verified to follow the guidelines here.
+   - NO. Except, where contractors are concerned and in those cases they have access only to the data which they need to operate and have verified to follow the guidelines here, and our primary cloud provider.
 
 1. If so, is access to data controlled by terms of Non-Disclosure Agreements?
    - YES
@@ -157,7 +157,7 @@ Does your quality management system (QMS) include coverage for software applicat
 ### Enterprise Protection
 
 1. Is antivirus protection enabled on endpoints?
-   - NO. Any Antivirus solution suggests that there are non-vulnerable devices able to access secure data. Instead Rhosys exists using a Zero-Trust framework, where all external devices are considered vulnerable by default. All sensitive information is protected from external devices. Elevated access is given progressively to authenticated connected devices, and are verified by the device management strategy.
+   - NO. Any Antivirus solution suggests that there are non-vulnerable devices able to access secure data. Instead, Rhosys exists using a Zero-Trust framework, where all external devices are considered vulnerable by default. All sensitive information is protected from external devices. Elevated access is given progressively to authenticated connected devices, and are verified by the device management strategy.
 
 ### Validation
 
@@ -176,7 +176,7 @@ Does your quality management system (QMS) include coverage for software applicat
 ### Security Response
 
 1. Do you have a documented company security incident response process?
-   - NO
+   - [YES.](./Processes.md)
 
 1. Do your maintenance releases include fixes for both quality and security related issues?
    - YES.
@@ -191,4 +191,4 @@ Does your quality management system (QMS) include coverage for software applicat
    - NO.
 
 1. Is there a specified response policy that includes the timeframe issues are to be addressed?
-   - NO.
+   - [YES.](./Processes.md)
