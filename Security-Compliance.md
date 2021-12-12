@@ -113,7 +113,7 @@ Does your quality management system (QMS) include coverage for software applicat
    - YES.
 
 1. Is app security threat modeling performed when deemed appropriate (i.e. new or changed architectures and approaches)?
-   - NO.
+   - YES.
 
 1. Is application code managed in a secure configuration management system with access controls?
    - YES.
