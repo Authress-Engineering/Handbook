@@ -7,7 +7,7 @@ All regulated data has data-residency locks to prevent transfer to locations tha
 For more information on how our data is protected please see:
 * [AWS Nitro Enclaves](https://aws.amazon.com/ec2/nitro/) - For compute time data segregation.
 * [AWS KMS](https://aws.amazon.com/kms/) - For encryption at rest documentation.
-* [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) - For data encryption in transit
+* [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) - For data encryption in transit.
 
 ### Data transfers
 In rare situations data transfers to customers may be necessary to facilitate customer-owned workflows. These transfers are not governed by the above process and restrictions, and therefore the customer takes full responsibility in ensuring the transfer of this data, as well as receiving it, are handled according to their own requirements and regulations.
