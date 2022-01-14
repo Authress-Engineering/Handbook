@@ -9,6 +9,9 @@ Data privacy is a human right:
 * [Authress Privacy Policy](https://authress.io/app/#privacy)
 * [Standup and Prosper Privacy Policy](https://standup.teaminator.io/app/#/privacy)
 
+Audit Reports:
+* [Schrems II](./schrems-ii.md)
+
 ### Data Protection Officers
 
 Oversight of Data Security is handled by Rhosys respective Data Protection Officers. Should you wish to make modifications, deletions or additions to any personal data you believe to be captured by Rhosys, or if you have any general security concern, please contact our **Data Protection Officer (DPO)** at the following email address: [security@rhosys.ch](mailto:security@rhosys.ch)
