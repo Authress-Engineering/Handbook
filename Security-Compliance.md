@@ -10,7 +10,7 @@ Data privacy is a human right:
 * [Standup and Prosper Privacy Policy](https://standup.teaminator.io/app/#/privacy)
 
 Audit Reports:
-* [Schrems II](./schrems-ii.md)
+* [GDPR & Schrems II](./GDPR.md)
 
 ### Data Protection Officers
 
