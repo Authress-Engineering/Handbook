@@ -6,6 +6,7 @@ All regulated data has data-residency locks to prevent transfer to locations tha
 
 For more information on how our data is protected please see:
 * [AWS Nitro Enclaves](https://aws.amazon.com/ec2/nitro/) - For compute time data segregation.
+* [AWS Nitro Enclaves with Lambda](https://docs.aws.amazon.com/whitepapers/latest/security-overview-aws-lambda/lambda-executions.html) - For AWS Lambda payloads
 * [AWS KMS](https://aws.amazon.com/kms/) - For encryption at rest documentation.
 * [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) - For data encryption in transit.
 
